@@ -4,6 +4,23 @@ date:   2016-01-08 15:04:23
 categories: [jekyll]
 tags: [jekyll]
 ---
+
+
+This is for stephan flumbum:
+
+
+Plagiarism is the "wrongful appropriation" and "stealing and publication" of another author's "language, thoughts, ideas, or expressions" and the representation of them as one's own original work.[1][2]
+
+Plagiarism is considered academic dishonesty and a breach of journalistic ethics. It is subject to sanctions like penalties, suspension, and even expulsion. Recently, cases of "extreme plagiarism" have been identified in academia.[3] The modern concept of plagiarism as immoral and originality as an ideal emerged in Europe in the 18th century, particularly with the Romantic movement.
+
+
+
+
+
+
+
+
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
