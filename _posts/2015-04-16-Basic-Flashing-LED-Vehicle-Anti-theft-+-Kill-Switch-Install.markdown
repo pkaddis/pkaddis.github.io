@@ -2,7 +2,7 @@ Growing up in Victoria, known as the stolen car state of Australia. Displaying e
 
 Considering my owner’s manual and insurance details were gone, they had my address so I had to act quick before they come along to my house and take the car again. I didn’t want to spend a lot of money on a car alarm + immobiliser, so instead I decided to install a flashing blue led and a kill switch. 
 
-###### H4 Flashing LED Install:
+### Flashing LED Install:
 
 I could have gone through the effort to buy a 555timer and build a flashing led circuit myself but after searching eBay I found a set of x40 5mm Diffused Flashing Blue LED diodes for a measly $5 including 470ohm resistors. 
 
@@ -12,7 +12,7 @@ The installation process was very easy, trick is to find x2 12v power sources, o
 
 I ended up splicing into a wire on my fuse box which I found was a constant 12V supply and spliced into my accessories wire to the head unit that contained the variable polarity. I was going to mount the LED at the front of the dashboard but found that I had a space next to my steering wheel beside my spotlight button where the led would mount easily. 
 
-###### H2 Kill Switch Install:
+### Kill Switch Install:
 
 When wiring a kill switch, there are a few points that you could tap into; 
 
