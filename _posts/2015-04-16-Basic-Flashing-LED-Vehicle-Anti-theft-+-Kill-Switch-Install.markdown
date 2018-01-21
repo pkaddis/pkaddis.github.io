@@ -22,12 +22,12 @@ When wiring a kill switch, there are a few points that you could tap into;
 -Distributor 
 -Ignition Coil 
 
-My Zuki being a manual car, the starter motor and battery was out of the equation because you could easily jump start the car whilst rolling in gear. If the fuel pump was off, the car would still start and run until the lines would become empty therefore giving the theft about a block of drive time.
+My Zuki being a manual car, the starter motor and battery was out of the equation because you could easily jump start the car whilst rolling in gear. If the fuel pump was off, the car would still start and run until the lines would become empty therefore giving the thief about a block of drive time.
 
 What I ended up doing was pulling a fuse called the “ignition coil-meter” and tested the ignition, the car would turn to accessories and turn over but would not start, which was perfect. 
 
 I followed the wire, cut it and wired a 12v switch in series and put it………….ah nice try. Sorry but really the position is up to you, I ended up re-using a switch in my car from factory, so if you do use a switch just don’t place it in the obvious.  
 
-That’s all really and the result looked great, the LED was very bright and it actually made a great light when trying to insert the key into my ignition barrel on a late night and the kill switch was mounted in a position where I’ll never forget to switch it off. So next time a theft comes around hopefully they’ll be so impressed that they’ll leave me a slab of beers 😉  
+That’s all really and the result looked great, the LED was very bright and it actually made a great light when trying to insert the key into my ignition barrel on a late night and the kill switch was mounted in a position where I’ll never forget to switch it off. So next time a thief comes around hopefully they’ll be so impressed that they’ll leave me a slab of beers 😉  
 
 ![1989 Suzuki Vitara](https://raw.githubusercontent.com/pkaddis/pkaddis.github.io/master/images/1989suzuki.jpg "1989 Suzuki Vitara")
