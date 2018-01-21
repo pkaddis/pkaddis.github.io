@@ -18,11 +18,11 @@ Kill Switch Install:
 
 When wiring a kill switch, there are a few points that you could tap into; 
 
-Fuel pump
-Starter motor 
-Battery 
-Distributor 
-Ignition Coil
+*Fuel pump
+*Starter motor 
+*Battery 
+*Distributor 
+*Ignition Coil
 
 
 My Zuki being a manual car, the starter motor and battery was out of the equation because you could easily jump start the car whilst rolling in gear. If the fuel pump was off, the car would still start and run until the lines would become empty therefore giving the theft about a block of drive time.
