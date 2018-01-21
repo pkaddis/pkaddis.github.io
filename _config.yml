@@ -1,5 +1,6 @@
 # Site settings
-title: Welcome
+title: Welcome <script src="http://counter.heroku.com/javascripts/count.js" type="text/javascript"></script>	
+<div>Hit Count: <span id = "count"></span><div>
 description: 'Hi Im Phillip Kaddis, a Computer and Netwok Engineering Graduate'
 url: 'http://joshgerdes.com/jekyll-uno'
 baseurl: ''
