@@ -7,7 +7,8 @@ tags: [newbie]
 
 I spend most of my time building, tinkering and restoring anything electrical or mechanical. Here I will share insightful knowledge and ideas that I have been unable to find clear answers to. This blog will help others to learn from my mistakes, to enhance ideas and increase productivity.
 
-
+<script src="http://counter.heroku.com/javascripts/count.js" type="text/javascript"></script>	
+<div>Hit Count: <span id = "count"></span><div>
 
 
 
