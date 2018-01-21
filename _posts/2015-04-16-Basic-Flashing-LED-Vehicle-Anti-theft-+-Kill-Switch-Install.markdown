@@ -4,7 +4,7 @@ Considering my owner’s manual and insurance details were gone, they had my add
 
 Flashing LED Install:
 
-I could have gone through the effort to buy a 555timer and build a flashing led circuit myself but after searching eBay I found a set of x20 12V Flashing Blue LED diodes for a measly $3 including 470ohm resistors. 
+I could have gone through the effort to buy a 555timer and build a flashing led circuit myself but after searching eBay I found a set of x40 5mm Diffused Flashing Blue LED diodes for a measly $5 including 470ohm resistors. 
 
 I tested the LED via a 12V Power Supply and LEDs were great with an average flash rate of 2 flashes per second. 
 
